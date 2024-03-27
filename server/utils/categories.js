@@ -1,0 +1,17 @@
+export default companies = [
+  "Phone",
+  "Computer",
+  "TV",
+  "Earphone",
+  "Tablet",
+  "Charger",
+  "Mouse",
+  "Keypad",
+  "Bluetooth",
+  "Pendrive",
+  "Remote",
+  "Speaker",
+  "Headset",
+  "Laptop",
+  "PC",
+];
